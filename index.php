@@ -11,15 +11,15 @@
 
 <body>
     <?php
-        include('./header.php')
+        include('./components/header.php')
     ?>
 
     <?php
-        include('./main.php')
+        include('./components/main.php')
     ?>
 
     <?php
-        include('./footer.php')
+        include('./components/footer.php')
     ?>
 
 </body>

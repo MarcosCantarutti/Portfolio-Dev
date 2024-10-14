@@ -1,4 +1,4 @@
-<footer class="bg-gray-800 text-white py-6">
+<footer class="bg-gray-800 text-white py-6" id="contacts">
     <div class="container mx-auto text-center">
         <p class="mb-2">&copy; <? echo date('Y'); ?> - Todos os direitos reservados.</p>
         <div class="flex justify-center space-x-4">

@@ -23,6 +23,6 @@ function createMainContent(){
 
 ?>
 
-<main class="bg-gray-100">
+<main class="bg-gray-100" id="main">
     <? echo createMainContent(); ?>
 </main>
